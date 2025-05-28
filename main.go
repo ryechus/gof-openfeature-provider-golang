@@ -1,4 +1,4 @@
-package main
+package gof_openfeature
 
 import "github.com/open-feature/go-sdk/openfeature"
 
